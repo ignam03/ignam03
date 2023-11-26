@@ -1,8 +1,8 @@
 
 <h1>Hi 👋, I'm Carlos Madrigal 🖐️</h1>
 
-[![Blog](https://img.shields.io/website?label=carlos-dev.vercel.app&style=for-the-badge&url=https://carlos-dev.vercel.app/)](https://carlos-dev.vercel.app)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ignacio-madrigal-7344161b1/)
+[![Blog](https://img.shields.io/website?label=carlos-dev.vercel.app&style=for-the-badge&url=https://carlos-dev.vercel.app/)]([https://carlos-dev.vercel.app](https://portfolio-frontend-76847.web.app))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-madrigal-7344161b1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosmadrigal_ok/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ignam03)
 
