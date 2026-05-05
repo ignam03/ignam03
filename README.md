@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Carlos Madrigal 🖐️</h1>
+<h1>Hi 👋, I'm Ignacio Madrigal 🖐️</h1>
 
 [![Blog](https://img.shields.io/website?label=carlos-dev.vercel.app&style=for-the-badge&url=https://carlos-dev.vercel.app/)]([https://carlos-dev.vercel.app](https://portfolio-frontend-76847.web.app))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-madrigal-7344161b1/)
